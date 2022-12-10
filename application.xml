@@ -1,0 +1,20 @@
+<app>
+  <!-- application description -->
+  <description>
+    <name>My App</name>
+    <version>1.0</version>
+  </description>
+  <!-- developer maintaining the application -->
+  <developer>
+    <name>Developer Name</name>
+    <contacts>
+      <email>developer@example.com</email>
+      <mobile>+359888888888</mobile>
+    </contacts>
+  </developer>
+  <!-- markets where the app is distributed -->
+  <market>
+    <googleplay>https://googleplay.com/url</googleplay>
+    <appstore>https://appstore.com/url</appstore>
+  </market>
+</app>
